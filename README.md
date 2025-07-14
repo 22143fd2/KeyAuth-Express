@@ -59,5 +59,3 @@ Navigate to:
 MIT License. Free to use, modify, and distribute.
 
 ---
-
-Let me know if you'd like a version with badges or extended API docs!
